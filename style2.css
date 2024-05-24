@@ -1,0 +1,30 @@
+h1,h3,h6, form
+{
+	color: lightblue;
+}
+
+select{cursor: pointer;}
+
+body 
+{
+	
+	background-color: rgb(170,80,100);
+}
+
+.pics
+{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+img
+{
+	width: 250px;
+	height:250px;
+	margin: 10px; 
+	transition: all 1s;
+}
+img:hover
+{
+	transform: scale(1.1);
+}

@@ -1,0 +1,11 @@
+
+h6,li,p{color:#aa4664}
+li,li:hover{cursor:pointer}
+.adresstext,footer,h1,h3{text-align:center}
+body{background-color:#add8e6}
+h1,h3{color:#aa5064;
+	   background-color:#87ceeb;
+	    border:4px solid #aa5064}
+h6{display:block}li:hover{color:#64460a}
+#div1{background-color:rgb(0,0,255,.2)}
+footer{font-style:italic}
